@@ -1,0 +1,1 @@
+# Algerian_forest_fire_logistic_regression_prediction
